@@ -1,6 +1,8 @@
 # Self-Driving-Vehicle-Control
 Longitudinal control, Lateral control 
 
+![](https://github.com/garychian/Self-Driving-Vehicle-Control/blob/master/CARLA.gif)
+
 This project, we will implement a controller (Longitudinal and Lateral) for CARLA simulator. Our goal is control the vehicle to follow a race track by navigating through preset waypoints. The vehicle needs to reach these waypoints at certain desired speeds. 
 
 ## File structure
